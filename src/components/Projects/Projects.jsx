@@ -2,9 +2,9 @@ import React, { useContext, useEffect, useState } from 'react';
 import Fade from 'react-reveal/Fade';
 import Tilt from 'react-tilt';
 import { Container, Row, Col } from 'react-bootstrap';
-import YouTube from 'react-youtube';
 import PortfolioContext from '../../context/context';
 import Title from '../Title/Title';
+import ProjectImg from '../Image/ProjectImg';
 
 const Projects = () => {
   const { projects } = useContext(PortfolioContext);
@@ -34,7 +34,7 @@ const Projects = () => {
         <div className="project-wrapper">
           <Title title="Projects" />
           {projects.map((project) => {
-            const { title, info, url, repo, videoId, id, contributors, stack, note } = project;
+            const { title, info, url, repo, img, id, contributors, stack, note } = project;
 
             return (
               <Row key={id}>
@@ -111,7 +111,7 @@ const Projects = () => {
                         }}
                       >
                         <div data-tilt className="thumbnail rounded">
-                          <YouTube videoId={videoId} opts={videoOpts} />
+                          <ProjectImg alt={title} filename={img} />
                         </div>
                       </Tilt>
                     </div>

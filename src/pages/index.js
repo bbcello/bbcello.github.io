@@ -12,13 +12,16 @@ export default () => {
     <>
       <Helmet>
         <meta charSet="utf-8" />
-        <title>Danny Berger | Dev</title>
+        <title>Joon Suh Sohn</title>
         <html lang={lang} />
         <meta name="description" content="Full Stack Software Mobile and Web Developer" />
-        <meta name="keywords" content="Full, Stack, Fullstack, Web, Software, Developer, Engineer, Programmer, React, Javascript, Node, Portfolio" />
+        <meta
+          name="keywords"
+          content="Full, Stack, Fullstack, Web, Software, Developer, Engineer, Programmer, React, Javascript, Node, Portfolio"
+        />
         <meta name="robots" content="index, follow" />
         <meta name="language" content="English" />
-        <meta property="og:title" content="Danny Berger | Dev" />
+        <meta property="og:title" content="Joon Suh Sohn" />
         <meta property="og:description" content="Full Stack Software Mobile and Web Developer" />
         <meta property="og:image" content="https://www.danny-berger.dev/screen_shot.png" />
         <meta property="og:url" content="https://www.danny-berger.dev/" />
