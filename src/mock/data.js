@@ -121,8 +121,9 @@ export const aboutData = {
   paragraphOne:
     'I am Toronto-Seoul based software developer, with background in Statistics and Music',
   paragraphTwo:
-    'In 2022, I took a leap and trained in full-stack software development at General Assembly. I quickly absorbed new concepts, while bringing ambitious ideas and a positive attitude to every challenge.',
-  paragraphThree: 'Outside of coding, I am into crypto market, music, and video games.',
+    'In 2022, I took a leap and trained in full-stack software development at General Assembly. I have passions in building products that can benefit all types of people. I am also motivated by technical innovations and business success.',
+  paragraphThree:
+    'My long time interest in music, crypto currency, and teaching helped me acquire a wide range of perspectives.',
   resume:
     'https://docs.google.com/document/d/1LLmHeSKtAjiVYVqA8JLYgOEJXjveGRmY4kxCf-RmR58/edit?usp=sharing', // if no resume, the button will not show up
 };
