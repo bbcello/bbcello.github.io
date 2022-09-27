@@ -114,9 +114,6 @@ export const projectsData = [
 
 // ABOUT DATA
 export const aboutData = {
-  // For lulz:
-  // img: 'Origami_Bernie_Meme.jpeg',
-  // img: 'LinkedInPhoto.png',
   img: 'profpic.png',
   paragraphOne:
     'I am Toronto-Seoul based software developer, with background in Statistics and Music',
@@ -125,7 +122,7 @@ export const aboutData = {
   paragraphThree:
     'My long time interest in music, crypto currency, and teaching helped me acquire a wide range of perspectives.',
   resume:
-    'https://docs.google.com/document/d/1LLmHeSKtAjiVYVqA8JLYgOEJXjveGRmY4kxCf-RmR58/edit?usp=sharing', // if no resume, the button will not show up
+    'https://docs.google.com/document/d/1ee07XeMz0CJzOyx748puBYrT7QAFgbSzMNwKevsPetA/edit?usp=sharing', // if no resume, the button will not show up
 };
 
 // CONTACT DATA

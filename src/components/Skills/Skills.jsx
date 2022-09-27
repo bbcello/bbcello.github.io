@@ -91,7 +91,7 @@ const Skills = () => {
               <Fade left={isDesktop} bottom={isMobile} duration={500} delay={250} distance="30px">
                 <div className="skills-wrapper__info">
                   <h3 className="skills-wrapper__info-text"></h3>
-                  <p className="skills-wrapper__info-text">Select a layer to show stack skills.</p>
+                  <p className="skills-wrapper__info-text">Select a layer to see stack skills.</p>
                 </div>
               </Fade>
             )}
