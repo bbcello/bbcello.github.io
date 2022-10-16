@@ -108,7 +108,7 @@ export const projectsData = [
     ],
     note: 'App hosted on free Heroku server. Please allow 10-15s to load.',
     url: 'https://travelspo.netlify.app/',
-    repo: 'https://github.com/bbcello/Travelspo',
+    repo: 'https://github.com/bbcello/Travelspo-1',
   },
 ];
 
