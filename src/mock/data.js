@@ -107,8 +107,8 @@ export const projectsData = [
       'Heroku',
     ],
     note: 'App hosted on free Heroku server. Please allow 10-15s to load.',
-    url: 'https://garden-smart-app.herokuapp.com/', // if no url, the button will not show up
-    repo: 'https://github.com/bbcello/Travelspo', // if no repo, the button will not show up
+    url: 'https://travelspo.netlify.app/',
+    repo: 'https://github.com/bbcello/Travelspo',
   },
 ];
 
@@ -118,7 +118,7 @@ export const aboutData = {
   paragraphOne:
     'I am Toronto-Seoul based software developer, with background in Statistics and Music',
   paragraphTwo:
-    'In 2022, I took a leap and trained in full-stack software development at General Assembly. I have passions in building products that can benefit all types of people. I am also motivated by technical innovations and business success.',
+    'In 2022, I took a leap and trained in full-stack software development program at General Assembly. I have passions in building products that can benefit all types of people. I am also motivated by technical innovations and business success.',
   paragraphThree:
     'My long time interest in music, crypto currency, and teaching helped me acquire a wide range of perspectives.',
   resume:
