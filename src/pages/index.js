@@ -14,7 +14,7 @@ export default () => {
         <meta charSet="utf-8" />
         <title>Joon Suh Sohn</title>
         <html lang={lang} />
-        <meta name="description" content="Full Stack Software Mobile and Web Developer" />
+        <meta name="description" content="Full Stack Software Web Developer" />
         <meta
           name="keywords"
           content="Full, Stack, Fullstack, Web, Software, Developer, Engineer, Programmer, React, Javascript, Node, Portfolio"
@@ -22,7 +22,7 @@ export default () => {
         <meta name="robots" content="index, follow" />
         <meta name="language" content="English" />
         <meta property="og:title" content="Joon Suh Sohn" />
-        <meta property="og:description" content="Full Stack Software Mobile and Web Developer" />
+        <meta property="og:description" content="Full Stack Software Web Developer" />
         <meta property="og:url" content="https://joonsuhsohn.netlify.app/" />
       </Helmet>
       <App />
