@@ -122,7 +122,7 @@ export const aboutData = {
   paragraphThree:
     'My long time interest in music, crypto currency, and teaching helped me acquire a wide range of perspectives.',
   resume:
-    'https://docs.google.com/document/d/1ee07XeMz0CJzOyx748puBYrT7QAFgbSzMNwKevsPetA/edit?usp=sharing', // if no resume, the button will not show up
+    'https://docs.google.com/document/d/1tBgcYclMgZq2PZu9MD1aPgncUFDeRyxvaf-ksnO4PaM/edit?usp=sharing', // if no resume, the button will not show up
 };
 
 // CONTACT DATA
