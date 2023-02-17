@@ -23,8 +23,7 @@ export default () => {
         <meta name="language" content="English" />
         <meta property="og:title" content="Joon Suh Sohn" />
         <meta property="og:description" content="Full Stack Software Mobile and Web Developer" />
-        <meta property="og:image" content="https://www.danny-berger.dev/screen_shot.png" />
-        <meta property="og:url" content="https://www.danny-berger.dev/" />
+        <meta property="og:url" content="https://joonsuhsohn.netlify.app/" />
       </Helmet>
       <App />
     </>
